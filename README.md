@@ -8,9 +8,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0290-word-pattern) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0290-word-pattern) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
