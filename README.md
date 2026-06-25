@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0007-reverse-integer) |
 ## Hash Table
 |  |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
