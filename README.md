@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0290-word-pattern) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
