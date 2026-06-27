@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0005-longest-palindromic-substring) |
 | [0290-word-pattern](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0290-word-pattern) |
 ## Array
 |  |
@@ -59,5 +60,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
