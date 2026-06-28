@@ -6,6 +6,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0009-palindrome-number) |
 ## Hash Table
 |  |
 | ------- |
