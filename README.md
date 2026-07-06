@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0014-longest-common-prefix](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
