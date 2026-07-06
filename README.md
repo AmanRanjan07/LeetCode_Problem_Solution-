@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
