@@ -96,6 +96,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
