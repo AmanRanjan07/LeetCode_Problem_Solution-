@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0027-remove-element) |
@@ -85,6 +86,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
