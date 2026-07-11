@@ -133,4 +133,20 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
