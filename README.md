@@ -158,4 +158,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0011-container-with-most-water) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
