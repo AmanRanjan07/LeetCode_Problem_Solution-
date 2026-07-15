@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 | [0027-remove-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0219-contains-duplicate-ii) |
@@ -95,6 +97,7 @@
 | [0027-remove-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
 ## Dynamic Programming
