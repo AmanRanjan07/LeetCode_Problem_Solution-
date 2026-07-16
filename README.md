@@ -52,6 +52,7 @@
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -102,6 +103,7 @@
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
+| [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
