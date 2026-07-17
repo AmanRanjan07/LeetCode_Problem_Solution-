@@ -37,6 +37,7 @@
 | [0242-valid-anagram](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0011-container-with-most-water) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Enumeration
 |  |
 | ------- |
