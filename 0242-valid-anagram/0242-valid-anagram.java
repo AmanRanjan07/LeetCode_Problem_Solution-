@@ -8,7 +8,7 @@ class Solution {
         }
         char []a =s.toCharArray();
         char []b =t.toCharArray();
-
+// Simply we sort both the array and compare then weather it is equal or not here..
         Arrays.sort(a);
         Arrays.sort(b);
         if(Arrays.equals(a,b)){
