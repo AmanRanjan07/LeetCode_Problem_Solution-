@@ -15,3 +15,5 @@ class Solution {
         return new String(arr); 
     }
 }
+
+// lexicographic means that what the smallest move that make the changes into the string or anything it will be become the palindrome like, how we can swap to make the answer
