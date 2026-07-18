@@ -11,6 +11,7 @@
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -180,4 +182,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0073-set-matrix-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
