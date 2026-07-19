@@ -38,6 +38,7 @@
 | [0242-valid-anagram](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Array
 |  |
@@ -140,6 +141,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Memoization
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0011-container-with-most-water) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Enumeration
 |  |
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
