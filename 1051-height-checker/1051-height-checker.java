@@ -7,7 +7,7 @@ class Solution {
         Arrays.sort(expected);
 
         int count = 0;
-
+        // here it is simple that if the sorted element and original element is matched than only we have to count ++
         for (int i = 0; i < heights.length; i++) {
 
             if (heights[i] != expected[i]) {
