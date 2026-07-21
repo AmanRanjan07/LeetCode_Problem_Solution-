@@ -60,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
+| [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -101,6 +102,7 @@
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0242-valid-anagram) |
+| [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
