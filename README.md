@@ -11,6 +11,7 @@
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -63,6 +64,7 @@
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
@@ -111,6 +113,7 @@
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3536-maximum-product-of-two-digits) |
