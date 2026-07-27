@@ -68,6 +68,7 @@
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2293-min-max-game](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2293-min-max-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -116,6 +117,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
