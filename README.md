@@ -46,6 +46,7 @@
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
