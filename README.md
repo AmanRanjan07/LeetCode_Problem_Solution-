@@ -60,6 +60,7 @@
 | [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
@@ -132,6 +133,7 @@
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 ## Trie
 |  |
