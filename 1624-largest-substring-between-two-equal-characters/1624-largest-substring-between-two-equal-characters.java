@@ -2,12 +2,11 @@ class Solution {
     public int maxLengthBetweenEqualCharacters(String s) {
         int n = s.length();
         int ans = -1;
-
-        for(int l=0;l<n;l++){
-            for(int r=n-1;r>l;r--){
-                if(s.charAt(l) == s.charAt(r)){
-                    ans = Math.max(ans,r-l-1);
-                    break;
+        for(int i=0;i<n;i++){
+            for(int j=n-1;j>i;j--){
+                if(s.charAt(i) == s.charAt(j)){
+                ans = Math.max(ans,j-i-1);
+                break;
                 }
             }
         }
