@@ -29,6 +29,7 @@
 | [0242-valid-anagram](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0290-word-pattern) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [3731-find-missing-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@
 | [0268-missing-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
