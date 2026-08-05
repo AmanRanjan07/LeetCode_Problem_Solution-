@@ -1,9 +1,6 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        
-       
-        int i = 0;
-
+         int i = 0;
         while (i < nums.length) {
             int curr = nums[i] - 1;
             if (nums[i] != nums[curr]) {
@@ -12,7 +9,6 @@ class Solution {
                 i++;
             }
         }
-
         List<Integer> ans = new ArrayList<>();
 
         for (int ind = 0; ind < nums.length; ind++) {
@@ -20,10 +16,8 @@ class Solution {
                 return new int[] {nums[ind], ind + 1};
             }
         }
-
         return new int[] {-1,-1};
     }
-
     static void swap(int[] arr, int fis, int sec) {
         int temp = arr[fis];
         arr[fis] = arr[sec];
