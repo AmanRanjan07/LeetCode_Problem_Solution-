@@ -219,10 +219,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -271,4 +273,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
