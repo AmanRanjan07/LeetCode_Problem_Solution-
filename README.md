@@ -220,11 +220,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -277,8 +279,10 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
