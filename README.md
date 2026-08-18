@@ -35,6 +35,7 @@
 | [0645-set-mismatch](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -89,6 +90,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2293-min-max-game](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2293-min-max-game) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
