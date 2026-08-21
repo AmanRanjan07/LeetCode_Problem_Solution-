@@ -92,6 +92,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2293-min-max-game](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2293-min-max-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3731-find-missing-elements) |
@@ -220,6 +221,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
 | [2293-min-max-game](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2293-min-max-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
 |  |
 | ------- |
