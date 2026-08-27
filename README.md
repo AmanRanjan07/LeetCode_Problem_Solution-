@@ -71,6 +71,7 @@
 | [0027-remove-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0338-counting-bits) |
 ## Binary Search
