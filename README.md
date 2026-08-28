@@ -36,6 +36,7 @@
 | [0645-set-mismatch](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [2351-first-letter-to-appear-twice](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2351-first-letter-to-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -56,6 +57,7 @@
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [2351-first-letter-to-appear-twice](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2351-first-letter-to-appear-twice) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
@@ -116,6 +118,7 @@
 ## Counting
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2351-first-letter-to-appear-twice) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -223,6 +226,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0645-set-mismatch) |
+| [2351-first-letter-to-appear-twice](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
