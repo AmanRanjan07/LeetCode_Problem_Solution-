@@ -34,6 +34,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0645-set-mismatch) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2351-first-letter-to-appear-twice) |
@@ -177,6 +178,7 @@
 | [0283-move-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
@@ -239,12 +241,14 @@
 | ------- |
 | [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -299,11 +303,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Manacher
 |  |
 | ------- |
@@ -313,4 +319,8 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0176-second-highest-salary) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
