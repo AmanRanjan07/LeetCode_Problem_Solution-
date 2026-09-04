@@ -1,26 +1,12 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int i = 0;
-        while(i < nums.length){
-            int corr = nums[i];
-            if(nums[i] < nums.length && nums[i] != nums[corr]){
-                swap(nums,i,corr);
-            }
-            else{
-                i++;
-            }
-        }
-        for(int ind =0;ind < nums.length;ind++){
-            if(nums[ind] != ind){
-                return ind;
-            }
-        }
-        return nums.length;
-    }
+        int n = nums.length;
+        int Tsum = (n*(n+1))/2;
 
-void swap(int []nums,int fis, int sec){
-    int temp = nums[fis];
-    nums[fis] = nums[sec];
-    nums[sec] = temp;
+        int sum = 0;
+        for(int i=0;i<nums.length;i++){
+            sum += nums[i];
+        }
+        return Tsum - sum;
     }
 }
