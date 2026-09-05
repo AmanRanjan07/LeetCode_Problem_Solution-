@@ -93,6 +93,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0832-flipping-an-image) |
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
@@ -184,6 +185,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0832-flipping-an-image) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
@@ -233,12 +235,14 @@
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2351-first-letter-to-appear-twice) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0832-flipping-an-image) |
 | [2293-min-max-game](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Depth-First Search
@@ -278,6 +282,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0832-flipping-an-image) |
 ## Number Theory
 |  |
 | ------- |
