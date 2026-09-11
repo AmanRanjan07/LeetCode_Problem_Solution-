@@ -41,6 +41,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2351-first-letter-to-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -103,6 +104,7 @@
 | [2293-min-max-game](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -147,6 +149,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0203-remove-linked-list-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
