@@ -96,6 +96,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0832-flipping-an-image) |
+| [1004-max-consecutive-ones-iii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1331-rank-transform-of-an-array) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -207,6 +209,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1004-max-consecutive-ones-iii) |
 ## Trie
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1004-max-consecutive-ones-iii) |
 ## String Matching
 |  |
 | ------- |
