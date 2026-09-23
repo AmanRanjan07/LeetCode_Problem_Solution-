@@ -81,6 +81,7 @@
 | [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0169-majority-element) |
@@ -239,6 +240,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0338-counting-bits) |
@@ -355,4 +357,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
