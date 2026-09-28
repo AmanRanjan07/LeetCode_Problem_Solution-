@@ -1,51 +1,17 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        // // If no strings
-        // if (strs == null || strs.length == 0) return "";
-        if(strs == null || strs.length == 0) return "";
-        // // Use first string as reference
-        // String first = strs[0];
-        String first = strs[0];
-        // // Go through each character in the first string
-        // for (int i = 0; i < first.length(); i++) {
-        //     char c = first.charAt(i); // current char in first string
-        for(int i=0;i<first.length();i++){
-            char c = first.charAt(i);
+        if(strs == null || strs.length == 0){
+            return "";
+        }
+        String fi = strs[0];
+        for(int i=0;i<fi.length();i++){
+            char ch = fi.charAt(i);
             for(int j=1;j<strs.length;j++){
-                if(i >= strs[j].length() || strs[j].charAt(i) != c){
-                    return first.substring(0,i);
+                if(i >= strs[j].length()|| strs[j].charAt(i) != ch){
+                    return fi.substring(0,i);
                 }
             }
         }
-        return first;
-        //     // Compare this char with same index in all other strings
-        //     for (int j = 1; j < strs.length; j++) {
-        //         // If this string is too short or mismatch found
-        //         if (i >= strs[j].length() || strs[j].charAt(i) != c) {
-        //             // Return everything before mismatch
-        //             return first.substring(0, i);
-        //         }
-        //     }
-        // }
-
-        // // All letters matched
-        // return first;
-
-
-        // if(strs == null || strs.length == 0) return "";
-        // String first = strs[0];
-        // for(int i=0;i<first.length();i++){
-        //     char c = first.charAt(i);
-        //     for(int j = 1;j<strs.length;j++){
-        //         if(i>=strs[j].length() || strs[j].charAt(i) != c){
-        //             return first.substring(0,i);
-        //         }
-        //     }
-        // }
-        // return first;
+        return fi;
     }
 }
-    /*0123456  012345  01234
-// [aayushi, aayush, aayan]
-0123/u
-aayu/a   u!=a that is way we are return the element up 0-2 char is mached */
