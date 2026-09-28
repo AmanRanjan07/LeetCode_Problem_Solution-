@@ -60,6 +60,7 @@
 | [0290-word-pattern](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2351-first-letter-to-appear-twice) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -234,6 +235,7 @@
 | [0020-valid-parentheses](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
