@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
@@ -78,6 +79,7 @@
 | [0027-remove-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
@@ -297,6 +299,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0073-set-matrix-zeroes) |
 | [0832-flipping-an-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0832-flipping-an-image) |
 ## Number Theory
