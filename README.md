@@ -12,6 +12,7 @@
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -163,6 +164,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -257,6 +259,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0338-counting-bits) |
