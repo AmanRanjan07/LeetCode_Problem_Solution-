@@ -14,6 +14,7 @@
 | [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -275,6 +276,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0832-flipping-an-image) |
 | [2293-min-max-game](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -322,6 +324,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Monotonic Stack
 |  |
