@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0069-sqrtx) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0338-counting-bits) |
 ## Binary Search
@@ -395,4 +397,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0069-sqrtx) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
