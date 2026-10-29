@@ -18,15 +18,30 @@ class Solution {
     //     }
     //     return maxArea;  // Final answer, maximun =  width * maximum height .... 
 
-        int left = 0, right = height.length -1, maxArea = 0;
+        // int left = 0, right = height.length -1, maxArea = 0;
+        // while(left < right){
+        //     int width = right - left;
+        //     int currHeight = Math.min(height[left], height[right]);
+        //     int area = width * currHeight;
+        //     maxArea = Math.max(maxArea,area);
+        //     if(height[left] < height[right]){
+        //         left++;
+        //     } else{
+        //         right--;
+        //     }
+        // }
+        // return maxArea;
+
+        int left = 0,right = height.length - 1,maxArea = 0;
         while(left < right){
             int width = right - left;
-            int currHeight = Math.min(height[left], height[right]);
-            int area = width * currHeight;
+            int currHei = Math.min(height[left], height[right]);
+            int area = width*currHei;
             maxArea = Math.max(maxArea,area);
             if(height[left] < height[right]){
                 left++;
-            } else{
+            }
+            else{
                 right--;
             }
         }
