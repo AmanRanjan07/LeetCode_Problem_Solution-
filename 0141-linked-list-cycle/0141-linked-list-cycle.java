@@ -26,14 +26,27 @@
 // here this one is the HashSet Approach
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        HashSet <ListNode> set = new HashSet<>();
-        while(head != null){
-            if(set.contains(head))
+        // HashSet <ListNode> set = new HashSet<>();
+        // while(head != null){
+        //     if(set.contains(head))
+        //         return true;
+        //     set.add(head);
+        //     head = head.next;
+        // }
+        // return false;
+
+        //// Here we can also solve by the fast and slow pointer where fast will move 2 points forward and slow printer will move 1 points at a time...
+
+        ListNode fast = head;
+        ListNode slow = head;
+
+        while(fast != null && fast.next != null){
+            fast = fast.next.next;
+            slow = slow.next;
+            if(fast == slow){
                 return true;
-            set.add(head);
-            head = head.next;
+            }
         }
         return false;
-
     }
 }
