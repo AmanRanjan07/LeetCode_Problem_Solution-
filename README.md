@@ -170,6 +170,7 @@
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -178,6 +179,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
