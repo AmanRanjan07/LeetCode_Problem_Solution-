@@ -33,6 +33,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
@@ -161,6 +162,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
@@ -205,6 +207,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
@@ -352,6 +355,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
