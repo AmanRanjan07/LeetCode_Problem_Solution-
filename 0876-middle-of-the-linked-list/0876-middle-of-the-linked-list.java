@@ -22,6 +22,6 @@ class Solution {
             fast = fast.next.next;
         }
         return slow;
-        
+        // here we used the slow and fast pointer like and sloved the problem.....
     }
 }
