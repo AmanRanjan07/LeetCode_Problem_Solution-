@@ -135,6 +135,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -144,6 +145,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -166,6 +168,7 @@
 | [0141-linked-list-cycle](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -184,6 +187,7 @@
 | [0016-3sum-closest](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0242-valid-anagram) |
@@ -212,6 +216,7 @@
 | [0141-linked-list-cycle](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0202-happy-number) |
