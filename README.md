@@ -126,6 +126,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2293-min-max-game](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -269,6 +271,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/1004-max-consecutive-ones-iii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/3364-minimum-positive-sum-subarray) |
 ## String Matching
 |  |
 | ------- |
