@@ -5,8 +5,8 @@ class Solution {
             return n;
         }  
         
-            n1=1;
-            n2=2;
+            n1=1; // ways(1)
+            n2=2; // ways(2)
         
         for(int i=3;i<=n;i++){
             n3=n1+n2;
