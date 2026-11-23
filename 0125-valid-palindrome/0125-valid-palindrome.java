@@ -18,3 +18,5 @@ class Solution {
         return true;
     }
 }
+
+// This is the two pointer apprach where we are finding the palindrome of the string value removing the non-character value 
