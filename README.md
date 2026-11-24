@@ -107,6 +107,7 @@
 | [0075-sort-colors](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0189-rotate-array) |
@@ -262,6 +263,7 @@
 | [0035-search-insert-position](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/AmanRanjan07/LeetCode_Problem_Solution-/tree/master/0268-missing-number) |
